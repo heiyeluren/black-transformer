@@ -1,0 +1,2 @@
+# black-transformer
+black-transformer 是一个轻量级模拟Transformer模型实现的概要代码，用于了解整个Transformer工作机制
