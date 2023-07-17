@@ -1,0 +1,15 @@
+copy
+regex
+typing
+future
+six
+more-itertools
+numpy
+pandas
+matplotlib
+torch
+transformers
+spacy
+spacy-transformers
+tiktoken
+gpt3_tokenizer
